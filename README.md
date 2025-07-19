@@ -32,6 +32,7 @@ Download `Win98.utm.zip` from the [Releases page](https://github.com/ducbao414/u
 1. Use an FTP client like [Cyberduck](https://cyberduck.io/)
 2. Connect to `192.168.x.x:21` using anonymous login
 3. Transfer files between your Mac and Windows 98
+4. Files transferred via FTP will appear in the "Shared" folder on the Windows 98 desktop
 <img height="500" alt="cyberduck" src="https://github.com/user-attachments/assets/44e0a5f9-2e23-4ec3-8c6c-b1692a16dd84" />
 
 ## Finding Old Software
