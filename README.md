@@ -1,12 +1,22 @@
 # Windows 98 UTM Image
 <img width="2272" height="1836" alt="utm_w98" src="https://github.com/user-attachments/assets/7a8dfb90-63c7-49e8-9323-77b421a360c3" />
-A UTM image to run Windows 98 on macOS. Has working internet and patched Firefox 2.0 for HTTPS access.
 
 ## What's Included
-- Windows 98 
-- Working internet connection
-- Patched Firefox 2.0 for HTTPS sites
-- Pre-installed FTP server for file transfers
+
+**System Components:**
+
+-   Windows 98 Second Edition
+-   Network drivers with working internet connectivity
+-   Firefox 2.0 with HTTPS patches for basic web browsing
+-   Pre-installed FTP server for file transfers
+-   Seamless mouse integration
+
+**Gaming & Multimedia:**
+
+-   DirectX 8.1 with Sound Blaster 16 drivers
+-   Visual C++ 2005 redistributable
+-   Flash Player 9
+-   Windows Media Player 9
 
 ## Getting Started
 
